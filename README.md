@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Lois Bentil
+- 👀 I’m an aspiring frontend developer
+- 🌱 I’m currently learning HTML,CSS and Javascript
+- 💞️ I’m looking to collaborate on frontend projects
+- 😄 Pronouns: She/Her
